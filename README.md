@@ -22,4 +22,4 @@ I'm Peldom Zhang, *(official name Yanzhe Zhang)*
  -->
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyz314)
-![lambdalisue's github stats](https://github-readme-stats.vercel.app/api?username=Peldom&show_icons=true&count_private=true&line_height=40)
+![lambdalisue's github stats](https://github-readme-stats.vercel.app/api?username=zyz314&show_icons=true&count_private=true&line_height=40)
